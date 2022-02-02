@@ -4,7 +4,7 @@
   "author": "cassidoo",
   "description": "Translate the phrase 'racially offensive/charged' into what it really is: racist",
   "version": "1.0",
-  "permissions": ["activeTab"],
+  "permissions": [""],
   "content_scripts": [
     {
       "matches": ["*://*/*"],
