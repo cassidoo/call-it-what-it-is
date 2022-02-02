@@ -3,7 +3,7 @@
   "name": "Turn racially offensive/charged into racist",
   "author": "cassidoo",
   "description": "Translate the phrase 'racially offensive/charged' into what it really is: racist",
-  "version": "1.0",
+  "version": "1.1",
   "permissions": [""],
   "content_scripts": [
     {
